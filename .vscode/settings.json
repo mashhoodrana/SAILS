@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.html": "html",
+    "*.php": "php",
+    "xstring": "cpp"
+  }
+}
